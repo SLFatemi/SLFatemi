@@ -1,0 +1,159 @@
+/*                                                                                              
+                                                                                                                    
+                                                            dddddddd                                                
+        CCCCCCCCCCCCC                                       d::::::d       iiii       lllllll                       
+     CCC::::::::::::C                                       d::::::d      i::::i      l:::::l                       
+   CC:::::::::::::::C                                       d::::::d       iiii       l:::::l                       
+  C:::::CCCCCCCC::::C                                       d:::::d                   l:::::l                       
+ C:::::C       CCCCCC        ooooooooooo            ddddddddd:::::d      iiiiiii       l::::l         ooooooooooo   
+C:::::C                    oo:::::::::::oo        dd::::::::::::::d      i:::::i       l::::l       oo:::::::::::oo 
+C:::::C                   o:::::::::::::::o      d::::::::::::::::d       i::::i       l::::l      o:::::::::::::::o
+C:::::C                   o:::::ooooo:::::o     d:::::::ddddd:::::d       i::::i       l::::l      o:::::ooooo:::::o
+C:::::C                   o::::o     o::::o     d::::::d    d:::::d       i::::i       l::::l      o::::o     o::::o
+C:::::C                   o::::o     o::::o     d:::::d     d:::::d       i::::i       l::::l      o::::o     o::::o
+C:::::C                   o::::o     o::::o     d:::::d     d:::::d       i::::i       l::::l      o::::o     o::::o
+ C:::::C       CCCCCC     o::::o     o::::o     d:::::d     d:::::d       i::::i       l::::l      o::::o     o::::o
+  C:::::CCCCCCCC::::C     o:::::ooooo:::::o     d::::::ddddd::::::dd     i::::::i     l::::::l     o:::::ooooo:::::o
+   CC:::::::::::::::C     o:::::::::::::::o      d:::::::::::::::::d     i::::::i     l::::::l     o:::::::::::::::o
+     CCC::::::::::::C      oo:::::::::::oo        d:::::::::ddd::::d     i::::::i     l::::::l      oo:::::::::::oo 
+        CCCCCCCCCCCCC        ooooooooooo           ddddddddd   ddddd     iiiiiiii     llllllll        ooooooooooo
+*/
+
+@font-face {
+    font-family: "Sahel";
+    font-weight: normal;
+    src: url("../assets/fonts/Sahel/Sahel.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Sahel";
+    font-weight: 200;
+    src: url("../assets/fonts/Sahel/Sahel-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Sahel";
+    font-weight: bold;
+    src: url("../assets/fonts/Sahel/Sahel-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Vazir";
+    font-weight: normal;
+    src: url("../assets/fonts/Vazir/Vazir-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Vazir";
+    font-weight: 200;
+    src: url("../assets/fonts/Vazir/Vazir-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Vazir";
+    font-weight: bold;
+    src: url("../assets/fonts/Vazir/Vazir-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Shabnam";
+    font-weight: normal;
+    src: url("../assets/fonts/Shabnam/Shabnam.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Shabnam";
+    font-weight: 200;
+    src: url("../assets/fonts/Shabnam/Shabnam-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Shabnam";
+    font-weight: bold;
+    src: url("../assets/fonts/Shabnam/Shabnam-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Estedad";
+    font-weight: normal;
+    src: url("../assets/fonts/Estedad/Estedad-Regular.ttf") format("truetype");
+ }
+
+@font-face {
+    font-family: "Estedad";
+    font-weight: 200;
+    src: url("../assets/fonts/Estedad/Estedad-Light.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Estedad";
+    font-weight: bold;
+    src: url("../assets/fonts/Estedad/Estedad-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Yekan";
+    src: url("../assets/fonts/Yekan/Yekan.woff") format("woff");
+}
+
+.sahel {
+    direction: rtl;
+    font-family: "Sahel";
+}
+
+.yekan {
+    direction: rtl;
+    font-family: "Yekan";
+}
+
+.vazir {
+    direction: rtl;
+    font-family: "Vazir";
+}
+
+.shabnam {
+    direction: rtl;
+    font-family: "Shabnam";
+}
+
+.estedad {
+    direction: rtl;
+    font-family: "Estedad";
+}
+
+#codilo_watermark {
+    text-decoration: none;
+    position: fixed;
+    bottom: 25px;
+    left: 25px;
+    background: linear-gradient(-120deg, #a70707 , #be0c0c , #D62121, #C72C2C);
+    background-size: 300% 100%;
+    -moz-transition: all .1s ease-in-out;
+    -o-transition: all .1s ease-in-out;
+    -webkit-transition: all .1s ease-in-out;
+    transition: all .1s ease-in-out;
+    color: white;
+    font-size: 16px;
+    border-radius: 4px;
+    max-width: 500px;
+    padding: 12px 50px;
+    box-shadow: 1px 7px 14px -5px rgba(0,0,0,0.2);
+    z-index: 10000;
+    transition:all 0.5s linear;
+    font-weight: bold;
+}
+
+#codilo_watermark:hover {
+    background-position: 100% 0;
+}
+
+/* 
+   ____   U  ___ u  ____              _       U  ___ u 
+U /"___|   \/"_ \/ |  _"\    ___     |"|       \/"_ \/ 
+\| | u     | | | |/| | | |  |_"_|  U | | u     | | | | 
+ | |/__.-,_| |_| |U| |_| |\  | |    \| |/__.-,_| |_| | 
+  \____|\_)-\___/  |____/ uU/| |\u   |_____|\_)-\___/  
+ _// \\      \\     |||_.-,_|___|_,-.//  \\      \\    
+(__)(__)    (__)   (__)_)\_)-' '-(_/(_")("_)    (__)
+
+*/
