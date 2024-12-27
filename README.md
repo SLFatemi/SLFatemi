@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Sina
+Hi, there 👋 I'm Sina
+- ⚡ I'm enhancing my competitive programming and problem solving skills
 - 🌱 I'm currently learning HTML/CSS
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
