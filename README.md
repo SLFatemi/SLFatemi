@@ -2,6 +2,8 @@ Hi there 👋, I'm Sina
 
 - ⚡ I'm enhancing my competitive programming and problem-solving skills.
 - 🌱 I'm currently learning to become a Front-end developer
+
+- ![SLFatemi's Stats](https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
