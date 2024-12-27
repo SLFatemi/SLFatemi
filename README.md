@@ -3,9 +3,9 @@
 - ⚡ I'm enhancing my competitive programming and problem-solving skills.
 - 🌱 I'm currently learning to become a Front-end developer
 ---
-![SLFatemi's Stats](https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=buefy&show_icons=true&hide_border=false&count_private=true)
+![SLFatemi's Stats](https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
-![SLFatemi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&theme=buefy&show_icons=true&hide_border=false&layout=compact)
+![SLFatemi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
