@@ -10,9 +10,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&theme=material-palenight&show_icons=true&hide_border=true&layout=compact#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/SLFatemi#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&show_icons=true&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&show_icons=true#gh-light-mode-only" alt="My GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&show_icons=true&hide_border=true&layout=compact#gh-light-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&show_icons=true&layout=compact#gh-light-mode-only"/>
 </a>
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
