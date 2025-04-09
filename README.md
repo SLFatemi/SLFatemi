@@ -5,7 +5,7 @@
 ---
 
 <a href="https://github.com/SLFatemi#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=material-palenight&show_icons=true&change_me&hide_border=true&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=material-palenight&show_icons=true&change_meee&hide_border=true&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&change_me&theme=material-palenight&count_private=true&hide_border=true&layout=compact#gh-dark-mode-only"/>
 </a>
