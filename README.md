@@ -1,17 +1,15 @@
-**Hi there 👋, I'm Sina**
+<h2>Hi there 👋, I'm Sina <br><br></h2>
 
-- ⚡ I'm enhancing my competitive programming and problem-solving skills.
-- 🌱 I'm currently learning to become a Front-end developer
----
+### 👨🏻‍💻 &nbsp;About
+I'm a First-year Computer Science student at Iran University of Science and Technology, Passionate about Front-end development, Javascript, Python and Graphic Design
 
+### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/SLFatemi#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&theme=material-palenight&show_icons=true&change_mee&hide_border=true&count_private=true#gh-dark-mode-only" alt="My GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&change_mee&theme=material-palenight&count_private=true&hide_border=true&layout=compact#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/SLFatemi#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&change_mee&count_private=true&show_icons=true#gh-light-mode-only" alt="My GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&change_mee&layout=compact&count_private=true#gh-light-mode-only"/>
 </a>
 <!--
