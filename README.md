@@ -10,7 +10,7 @@
 </a>
 
 ### 👨🏻‍💻 &nbsp;About
-I'm a First-year Computer Science student, Passionate about Front-end development, Javascript, Python and Graphic Design
+> I'm a First-year Computer Science student, Passionate about Front-end development, Javascript, Python and Graphic Design
 
 ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://github.com/SLFatemi#gh-dark-mode-only">
