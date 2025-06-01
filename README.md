@@ -1,4 +1,13 @@
-<h2>Hi there 👋, I'm Sina <br><br></h2>
+<a href="https://github.com/SLFatemi#gh-dark-mode-only">
+  <p align="center">
+    <img src="/BannerDark.png"/>
+  </p>
+</a>
+<a href="https://github.com/SLFatemi#gh-light-mode-only">
+  <p align="center">
+    <img src="/BannerLight.png"/>
+  </p>
+</a>
 
 ### 👨🏻‍💻 &nbsp;About
 I'm a First-year Computer Science student at Iran University of Science and Technology, Passionate about Front-end development, Javascript, Python and Graphic Design
