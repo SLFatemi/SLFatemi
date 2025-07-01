@@ -25,7 +25,7 @@
 ---
 
 [![wakatime](https://wakatime.com/badge/user/a4e19d78-170a-4720-a3ce-9630fb31adf7.svg)](https://wakatime.com/@a4e19d78-170a-4720-a3ce-9630fb31adf7)
-[![codewars](https://www.codewars.com/users/SLFatemi/badges/small)](https://www.codewars.com/users/SLFatemi/)
+
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
