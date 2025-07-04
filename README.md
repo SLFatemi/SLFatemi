@@ -20,7 +20,11 @@
 <a href="https://github.com/SLFatemi#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=SLFatemi&change_me&count_private=true&show_icons=true#gh-light-mode-only" alt="My GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLFatemi&change_me&layout=compact&count_private=true#gh-light-mode-only"/>
-</a>
+</a>  
+
+#
+[![wakatime](https://wakatime.com/badge/user/a4e19d78-170a-4720-a3ce-9630fb31adf7.svg)](https://wakatime.com/@a4e19d78-170a-4720-a3ce-9630fb31adf7)
+
 <!--
 **SLFatemi/SLFatemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
